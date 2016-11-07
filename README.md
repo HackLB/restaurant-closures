@@ -38,12 +38,15 @@ A typical record is shown below for reference:
 
 ```
 {
-    "address": "3424 64TH ST",
-    "case_num": "CEAC224978",
-    "description": "GARAGE BURNED AND THE DEBRIS IS STILL THERE; JUNK CARS IN YARD, AT LEAST ONE OF WHICH IS BURNED FROM THE GARAGE FIRE; JUNK IN BACK YARD. PEOPLE LIVING IN RV IN BACKYARD ON LEFT SIDE PLUGGED INTO HOUSE",
-    "district": 9,
-    "last_insp_date": "08/26/2016",
-    "last_insp_type": "Pre-Citation Inspection",
-    "start_date": "10/29/2015"
+    "closed": "2016-05-06T00:00:00",
+    "coordinates": {
+        "address": "141 E Willow St, Long Beach, CA 90806, USA",
+        "latitude": 33.805574,
+        "longitude": -118.190648
+    },
+    "name": "Papa John's Pizza",
+    "place": "141 E. Willow St",
+    "reason": "No Hot Water",
+    "reopened": "2016-05-06T00:00:00"
 }
 ```
