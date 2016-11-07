@@ -1,0 +1,12 @@
+{
+    "closed": "2015-12-01T00:00:00",
+    "coordinates": {
+        "address": "300 W Willow St, Long Beach, CA 90806, USA",
+        "latitude": 33.8041638,
+        "longitude": -118.1949323
+    },
+    "name": "Pizza Hut",
+    "place": "300 W. Willow St.",
+    "reason": "Fire",
+    "reopened": "2015-12-01T00:00:00"
+}
