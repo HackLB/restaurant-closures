@@ -1,6 +1,6 @@
 # Welcome to HackLB/restaurant-closures
 
-This repository is intended to mirror and archive the [restaurant closures list](http://www.longbeach.gov/health/inspections-and-reporting/inspections/restaurant-closures/) which the [Long Beach Health Department](http://www.longbeach.gov/health) publishes. We opted for JSON as a more convenient format for consuming and analyzing restaurant closure records, and git in order to maintain a historical record including changes over time to each case record.
+This repository mirrors and archives the [restaurant closures list](http://www.longbeach.gov/health/inspections-and-reporting/inspections/restaurant-closures/) which the [Long Beach Health Department](http://www.longbeach.gov/health) publishes. We opted for JSON as a more convenient format for consuming and analyzing restaurant closure records, and git in order to maintain a historical record including changes over time to each case record.
 
 This project is an activity of [HackLB](https://github.com/HackLB).
 
